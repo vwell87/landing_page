@@ -37,7 +37,19 @@ h3 {
     margin-right: 150px;
 }
 
+ul {
+    display: flex;
+    list-style: none;
+    gap: 72px;
+    color: #E5E7EB;
+    font-size: 18px;
+}
 
+a {
+    text-decoration: none;
+    color: #F9FAF8;
+    font-weight: bold;
+}
 
 .first_part {
     display: flex;
